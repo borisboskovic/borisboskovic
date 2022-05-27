@@ -28,9 +28,9 @@
 <a href="https://vuejs.org/" ><img src="icons/vuejs.png" title="Vue.js" width=48 height=48 /></a>&nbsp;
 <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" ><img src="icons/dotnetcore.png" title=".NET Core" width=48 height=48 /></a>&nbsp;
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" ><img src="icons/csharp.png" title="C#" width=48 height=48 /></a>&nbsp;
-<a href="https://www.google.com/search?client=opera&q=postgres&sourceid=opera&ie=UTF-8&oe=UTF-8" ><img src="icons/postgres.png" title="PostgreSQL" width=48 height=48 /></a>&nbsp;
+<a href="https://www.postgresql.org/" ><img src="icons/postgres.png" title="PostgreSQL" width=48 height=48 /></a>&nbsp;
 <a href="https://www.mongodb.com/" ><img src="icons/mongodb.png" title="MongoDB" width=48 height=48 /></a>&nbsp;
-<a href="docker.com" ><img src="icons/docker.png" title="Docker" width=48 height=48 /></a>&nbsp;
+<a href="https://www.docker.com" ><img src="icons/docker.png" title="Docker" width=48 height=48 /></a>&nbsp;
 <a href="https://sass-lang.com/" ><img src="icons/sass.png" title="Sass" width=48 height=48 /></a>&nbsp;
 <a href="https://tailwindcss.com/" ><img src="icons/tailwind.png" title="Tailwind" width=48 height=48 /></a>&nbsp;
 <a href="https://code.visualstudio.com/" ><img src="icons/vscode.png" title="Visual Studio Code" width=48 height=48 /></a>&nbsp;
