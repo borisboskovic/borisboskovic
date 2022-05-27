@@ -8,8 +8,6 @@
 ---
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=borisboskovic" />  
-
 <img src="https://github-readme-stats.vercel.app/api?username=borisboskovic&show_icons=true" alt="github stats" />
 
 <!--
