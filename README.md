@@ -1,4 +1,4 @@
-## Hi 👋 I am Boris!
+# Hi 👋 I am Boris!
 
 #### 📫 Social media:
 <a href="https://www.linkedin.com/in/boris-bošković-5069a9182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -6,9 +6,14 @@
 <a href="https://www.facebook.com/borishetfield" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ---
+- 🎓 Bachelor of Science in Electrical Engineering
+- 🎯 Full-stack developer (TS & C#)
+- 🌱 I’m currently learning Docker & Kubernetes
+- 🦀 Planning to learn Rust in future
+
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=borisboskovic&show_icons=true" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=borisboskovic&show_icons=true" alt="github stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=light" width="48%" >
 
 <!--
 **borisboskovic/borisboskovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
