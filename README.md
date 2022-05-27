@@ -13,7 +13,9 @@
 -   🌱 I’m currently learning Docker & Kubernetes
 -   🦀 Planning to learn Rust in future
 
-## Stuff I use
+<img src="images/snake.svg" />
+
+## Tech stack
 
 <img src="icons/javascript.png" title="JavaScript" width=48 height=48 />&nbsp;
 <img src="icons/typescript.png" title="TypeScript" width=48 height=48 />&nbsp;
@@ -33,14 +35,12 @@
 <img src="icons/tailwind.png" title="Tailwind" width=48 height=48 />&nbsp;
 <img src="icons/vscode.png" title="Visual Studio Code" width=48 height=48 />&nbsp;
 
-## Stuff I plan to learn
+## Things I wanna use in near future
 
 <img src="icons/rust.png" title="Rust" width=48 height=48 />&nbsp;
 <img src="icons/redis.png" title="Redis" width=48 height=48 />&nbsp;
 <img src="icons/kubernetes.png" title="Kubernetes" width=48 height=48 />&nbsp;
 <img src="icons/hasura.png" title="Hasura" width=48 height=48 />&nbsp;
-
-<img src="images/snake.svg" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=borisboskovic&show_icons=true" alt="github stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=light" width="48%" >
 
