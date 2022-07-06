@@ -1,4 +1,4 @@
-# Hi 👋 I am Boris!
+# <p align="center">Hi 👋 I am Boris!</p>
 
 #### 📫 Social media:
 
