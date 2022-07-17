@@ -41,7 +41,7 @@
 
 ## Things I wanna use in near future
 
-<a href="https://www.lua.org/" target="_blank"><img src="icons/lua.png" title="Lua" width=48 height=48 /></a>&nbsp;
+<a href="https://go.dev/" target="_blank"><img src="icons/go.png" title="Go" width=48 height=48 /></a>&nbsp;
 <a href="https://redis.io/" target="_blank"><img src="icons/redis.png" title="Redis" width=48 height=48 /></a>&nbsp;
 <a href="https://kubernetes.io/" target="_blank"><img src="icons/kubernetes.png" title="Kubernetes" width=48 height=48 /></a>&nbsp;
 <a href="https://hasura.io/docs/latest/graphql/core/index/" target="_blank"><img src="icons/hasura.png" title="Hasura" width=48 height=48 /></a>&nbsp;
