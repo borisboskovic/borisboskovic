@@ -22,7 +22,8 @@
 <a href="https://graphql.org/" target="_blank"><img src="icons/graphql.png" title="GraphQL" width=48 height=48 /></a>&nbsp;
 <a href="https://www.prisma.io//" target="_blank"><img src="icons/prisma.png" title="Prisma" width=48 height=48 /></a>&nbsp;
 <a href="https://reactjs.org/" target="_blank"><img src="icons/react.png" title="React" width=48 height=48 /></a>&nbsp;
-<a href="https://nextjs.org/" target="_blank"><img src="icons/next.png" title="Next.js" width=48 height=48 /></a>&nbsp;
+<a href="https://nextjs.org/" target="_blank"><img src="icons/nextjs.png" title="Next.js" width=48 height=48 /></a>&nbsp;
+<a href="https://trpc.io/" target="_blank"><img src="icons/trpc.png" title="tRPC" width=48 height=48 /></a>&nbsp;
 <a href="https://redux.js.org/" target="_blank"><img src="icons/redux.png" title="Redux" width=48 height=48 /></a>&nbsp;
 <a href="https://vuejs.org/" target="_blank"><img src="icons/vuejs.png" title="Vue.js" width=48 height=48 /></a>&nbsp;
 <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank"><img src="icons/dotnetcore.png" title=".NET Core" width=48 height=48 /></a>&nbsp;
@@ -41,8 +42,8 @@
 
 ## Things I wanna use in near future
 
-<a href="https://trpc.io/" target="_blank"><img src="icons/trpc.png" title="tRPC" width=48 height=48 /></a>&nbsp;
 <a href="https://redis.io/" target="_blank"><img src="icons/redis.png" title="Redis" width=48 height=48 /></a>&nbsp;
+<a href="https://nestjs.com/" target="_blank"><img src="icons/nestjs.png" title="NestJS" width=48 height=48 /></a>&nbsp;
 <a href="https://kubernetes.io/" target="_blank"><img src="icons/kubernetes.png" title="Kubernetes" width=48 height=48 /></a>&nbsp;
 <a href="https://hasura.io/docs/latest/graphql/core/index/" target="_blank"><img src="icons/hasura.png" title="Hasura" width=48 height=48 /></a>&nbsp;
 
