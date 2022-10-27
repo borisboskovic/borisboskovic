@@ -44,8 +44,6 @@
 
 <a href="https://redis.io/" target="_blank"><img src="icons/redis.png" title="Redis" width=48 height=48 /></a>&nbsp;
 <a href="https://nestjs.com/" target="_blank"><img src="icons/nestjs.png" title="NestJS" width=48 height=48 /></a>&nbsp;
-<a href="https://kubernetes.io/" target="_blank"><img src="icons/kubernetes.png" title="Kubernetes" width=48 height=48 /></a>&nbsp;
-<a href="https://hasura.io/docs/latest/graphql/core/index/" target="_blank"><img src="icons/hasura.png" title="Hasura" width=48 height=48 /></a>&nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api?username=borisboskovic&show_icons=true" alt="github stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=light" width="48%" >
 
