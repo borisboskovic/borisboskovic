@@ -47,6 +47,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=borisboskovic&show_icons=true" alt="github stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=light" width="48%" >
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=borisboskovic" width="96%" />
+
 <!--
 **borisboskovic/borisboskovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
