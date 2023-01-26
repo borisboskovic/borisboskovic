@@ -45,7 +45,7 @@
 <a href="https://remix.run/" target="_blank"><img src="icons/remix.png" title="Remix" width=48 height=48 /></a>&nbsp;
 <a href="https://astro.build/" target="_blank"><img src="icons/astro-build.png" title="Astro" width=48 height=48 /></a>&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api?username=borisboskovic&show_icons=true" alt="github stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=light" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=borisboskovic&show_icons=true" alt="github stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=light" width="51%" >
 
 <!--
 **borisboskovic/borisboskovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
