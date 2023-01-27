@@ -13,7 +13,6 @@
 
 ## Tech stack
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="icons/javascript.png" title="JavaScript" width=48 height=48 /></a>&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="icons/typescript.png" title="TypeScript" width=48 height=48 /></a>&nbsp;
 <a href="https://nodejs.org/en/" target="_blank"><img src="icons/nodejs.png" title="Node.js" width=48 height=48 /></a>&nbsp;
 <a href="https://expressjs.com/" target="_blank"><img src="icons/express.png" title="express.js" width=48 height=48 /></a>&nbsp;
