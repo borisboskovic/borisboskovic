@@ -36,6 +36,7 @@
 <a href="https://www.rust-lang.org/" target="_blank"><img src="icons/rust.png" title="Rust" width=48 height=48 /></a>&nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="icons/docker.png" title="Docker" width=48 height=48 /></a>&nbsp;
 <a href="https://azure.microsoft.com/" target="_blank"><img src="icons/azure.png" title="Azure" width=48 height=48 /></a>&nbsp;
+<a href="https://www.lua.org/" target="_blank"><img src="icons/lua.png" title="Lua" width=48 height=48 /></a>&nbsp;
 
 ## Things I wanna use in near future
 
