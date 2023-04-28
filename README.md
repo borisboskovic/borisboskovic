@@ -94,11 +94,8 @@ Here are some ideas to get you started:
 			<a href="https://azure.microsoft.com/" target="_blank">
 				<img src="icons/azure.png" title="Azure" width=40 height=40 />
 			</a>
-			<a href="https://sass-lang.com/" target="_blank">
-				<img src="icons/sass.png" title="Sass" width=40 height=40 />
-			</a>
-			<a href="https://www.prisma.io//" target="_blank">
-				<img src="icons/prisma.png" title="Prisma" width=40 height=40 />
+			<a href="https://www.arduino.cc/" target="_blank">
+				<img src="icons/arduino.png" title="Arduino" width=40 height=40 />
 			</a>
 		</td>
 	</tr>
@@ -146,6 +143,9 @@ Here are some ideas to get you started:
 			</a>
 			<a href="https://astro.build/" target="_blank">
 				<img src="icons/astro-build.png" title="Astro" width=40 height=40 />
+			</a>
+			<a href="https://tauri.app/" target="_blank">
+				<img src="icons/tauri.png" title="Tauri" width=40 height=40 />
 			</a>
 		</td>
 	</tr>
