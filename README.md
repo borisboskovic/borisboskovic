@@ -158,5 +158,4 @@ Here are some ideas to get you started:
 
 [![Boris's wakatime stats](https://github-readme-stats-mu-seven-18.vercel.app/api/wakatime?username=borisboskovic&layout=compact)](https://wakatime.com/@borisboskovic)
 
-| [![Boris's wakatime stats](https://github-readme-stats-mu-seven-18.vercel.app/api/wakatime?username=borisboskovic&layout=compact)](https://wakatime.com/@borisboskovic) | <img src="images/john-carmack-quote.jpg" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+<img src="images/john-carmack-quote.jpg" />
