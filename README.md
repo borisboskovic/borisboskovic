@@ -156,12 +156,6 @@ Here are some ideas to get you started:
 | <img src="https://github-readme-stats-mu-seven-18.vercel.app/api?username=borisboskovic&show_icons=true" alt="github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=light"> |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
 
-<!--  -->
-
 [![Boris's wakatime stats](https://github-readme-stats-mu-seven-18.vercel.app/api/wakatime?username=borisboskovic&layout=compact)](https://wakatime.com/@borisboskovic)
 
 <img src="images/john-carmack-quote.png" style="border: 2px black solid; border-radius: 12px" />
-
-<!-- [![Boris's wakatime stats](https://github-readme-stats-mu-seven-18.vercel.app/api/wakatime?username=borisboskovic&layout=compact)](https://wakatime.com/@borisboskovic)
-
-<img src="images/john-carmack-quote.png" /> -->
