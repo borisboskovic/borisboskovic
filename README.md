@@ -158,6 +158,7 @@ Here are some ideas to get you started:
 
 [![Boris's wakatime stats](https://github-readme-stats-mu-seven-18.vercel.app/api/wakatime?username=borisboskovic&layout=compact)](https://wakatime.com/@borisboskovic)
 
-[![wakatime](https://wakatime.com/badge/user/fec41f49-23c5-4777-a762-83b8813c415c.svg)](https://wakatime.com/@fec41f49-23c5-4777-a762-83b8813c415c)
+| [![wakatime](https://wakatime.com/badge/user/fec41f49-23c5-4777-a762-83b8813c415c.svg)](https://wakatime.com/@fec41f49-23c5-4777-a762-83b8813c415c) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=borisboskovic) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 
 <img src="images/john-carmack-quote.png" style="border: 2px black solid; border-radius: 12px" />
