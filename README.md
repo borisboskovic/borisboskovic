@@ -1,11 +1,5 @@
 # <p align="center">Hello! 👋</p>
 
-#### 📫 Social media:
-
-<a href="https://www.linkedin.com/in/boris-bošković-5069a9182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
----
-
 -   🎓 Bachelor of Science in Electrical Engineering
 -   🎯 Full-stack developer (TS & C#)
 
@@ -153,7 +147,7 @@ Here are some ideas to get you started:
 
 ---
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=transparent">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=transparent&hide_border=true">
 
 [![wakatime](https://wakatime.com/badge/user/fec41f49-23c5-4777-a762-83b8813c415c.svg)](https://wakatime.com/@fec41f49-23c5-4777-a762-83b8813c415c)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=borisboskovic)
