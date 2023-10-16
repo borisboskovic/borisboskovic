@@ -5,32 +5,6 @@
 
 <img src="images/snake.svg" />
 
-<!--
-**borisboskovic/borisboskovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-### Top Languages
- ![Top Langs](https://github-readme-stats-mu-seven-18.vercel.app/api/top-langs/?username=borisboskovic&layout=compact)
-
-### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=light" width="45%" >
-
-### Visitor Count
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=borisboskovic)
-
--->
-
 ## Stack
 
 <table>
@@ -144,8 +118,6 @@ Here are some ideas to get you started:
 		</td>
 	</tr>
 </table>
-
----
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=transparent&hide_border=true">
 
