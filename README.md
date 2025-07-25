@@ -119,6 +119,4 @@
 	</tr>
 </table>
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisboskovic&theme=transparent&hide_border=true">
-
 <img src="images/john-carmack-quote.png" style="border: 2px black solid; border-radius: 12px" />
